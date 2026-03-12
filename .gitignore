@@ -1,0 +1,15 @@
+# Dependencies
+todo-saas-api/vendor/
+todo-saas-web/node_modules/
+
+# Environment files
+todo-saas-api/.env
+todo-saas-web/.env
+
+# Laravel specific
+todo-saas-api/storage/logs/*
+todo-saas-api/bootstrap/cache/*
+
+# OS
+.DS_Store
+Thumbs.db
